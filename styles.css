@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    margin-top: 5%;
+    color: white;
+    background-color: black;
+}
+#label{
+    font-weight: 600;
+    font-size: 40px;
+    color: brown;
+}
+#input{
+    margin-bottom: 2%;
+    width: 20%;
+    font-weight: 600;
+    font-size: 200%;
+}
+#button{
+    margin-bottom: 1.5%;
+    padding: 1%;
+    width: 15%;
+    font-size: large;
+    color: white;
+    background-color: rgb(166, 43, 43);
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+#previous-guess{
+    margin-bottom: 1%;
+    margin-right: 10%;
+}
+#remaining{
+    margin-bottom: 1%;
+    margin-right: 8%;
+}
